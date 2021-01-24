@@ -1,0 +1,4 @@
+# Config files are not kept in repo
+policies/*
+!policies
+
